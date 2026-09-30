@@ -1,0 +1,31 @@
+{
+  "name": "expo-secure-secrets-cli",
+  "version": "1.0.0",
+  "description": "Developers struggle with securely managing environment variables and secrets across different environments in mobile and cross-platform apps.",
+  "type": "module",
+  "main": "src/index.ts",
+  "bin": {
+    "expo-secure-secrets-cli": "src/cli/cli.ts"
+  },
+  "scripts": {
+    "start": "node --experimental-strip-types src/index.ts",
+    "cli": "node --experimental-strip-types src/cli/cli.ts",
+    "test": "node --experimental-strip-types --test tests/**/*.test.ts",
+    "build": "tsc --noEmit"
+  },
+  "keywords": [
+    "enterprise",
+    "clean-architecture",
+    "local-first",
+    "typescript",
+    "tsi",
+    "zero-dependency",
+    "expo-secure-secrets-cli"
+  ],
+  "author": "Felipe Madison (@FelipeMadson)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}
