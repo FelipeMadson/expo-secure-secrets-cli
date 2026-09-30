@@ -1,6 +1,6 @@
 {
   "name": "expo-secure-secrets-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Developers struggle with securely managing environment variables and secrets across different environments in mobile and cross-platform apps.",
   "type": "module",
   "main": "src/index.ts",
