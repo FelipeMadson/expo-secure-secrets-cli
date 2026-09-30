@@ -2,9 +2,9 @@
   "slug": "expo-secure-secrets-cli",
   "version": "v1.0.0",
   "archiveFilename": "expo-secure-secrets-cli-v1.0.0.tar.gz",
-  "archiveSizeBytes": 33090,
-  "sha256": "21cbe1c2161c0be4d08e5ea53169eeb5fc1a7554774de900c730f5e684c3df2c",
+  "archiveSizeBytes": 33091,
+  "sha256": "459cfbf94355ea9388ee66b9a1551d2776d8c34bf1cff39a8fc25b1405018b6e",
   "filesIncluded": 39,
-  "createdAt": "2026-09-30T15:39:05.192Z",
+  "createdAt": "2026-09-30T15:50:09.256Z",
   "author": "Felipe Madison (@FelipeMadson)"
 }
