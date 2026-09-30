@@ -1,0 +1,46 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Expo Secure Secrets Cli SBOM",
+  "documentNamespace": "https://github.com/FelipeMadson/expo-secure-secrets-cli/spdxdocs/expo-secure-secrets-cli-1.0.0-51241908-0817-4ebf-b783-41ff1d5a0fe4",
+  "creationInfo": {
+    "created": "2026-09-30T15:18:12.943Z",
+    "creators": [
+      "Person: Felipe Madison (@FelipeMadson)",
+      "Organization: Autonomous Portfolio Engine — Staff Engineering Grade",
+      "Tool: SecurityCiGenerator-1.0.0"
+    ],
+    "licenseListVersion": "3.21"
+  },
+  "packages": [
+    {
+      "name": "expo-secure-secrets-cli",
+      "SPDXID": "SPDXRef-Package-expo-secure-secrets-cli",
+      "versionInfo": "1.0.0",
+      "packageFileName": "expo-secure-secrets-cli-1.0.0.tar.gz",
+      "packageSupplier": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "originator": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "downloadLocation": "git+https://github.com/FelipeMadson/expo-secure-secrets-cli.git@v1.0.0",
+      "filesAnalyzed": false,
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61015f258daf48f2f3e13f0544aa5dccf8effd5e4ef35ec10304deffe2ab8b84"
+        }
+      ],
+      "homepage": "https://github.com/FelipeMadson/expo-secure-secrets-cli",
+      "concludedLicense": "MIT",
+      "declaredLicense": "MIT",
+      "copyrightText": "Copyright (c) 2026 Felipe Madison (@FelipeMadson)",
+      "description": "Enterprise-grade production release for Expo Secure Secrets Cli, engineered by Felipe Madison."
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-Package-expo-secure-secrets-cli",
+      "relationshipType": "DESCRIBES"
+    }
+  ]
+}
