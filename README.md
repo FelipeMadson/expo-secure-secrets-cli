@@ -34,7 +34,7 @@
 
 ## 🎮 Live Interactive Playground (No Backend Required)
 
-Experimente o simulador em tempo real executando 100% no seu navegador com WebCrypto, Token Bucket e Write-Ahead Logging:
+Experimente o laboratório criptográfico com WebCrypto HMAC-SHA256, mascaramento recursivo de segredos e cadeia de auditoria Merkle:
 👉 **[Acessar Live Playground do Expo Secure Secrets Cli](https://felipemadson.github.io/expo-secure-secrets-cli/)**
 
 ## 🖥️ Demonstração em Terminal Vetorial (Execução & Benchmarks)
